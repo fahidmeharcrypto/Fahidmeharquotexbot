@@ -1,3 +1,4 @@
+# Sensitive Data
 .env
-__pycache__
-*.log
+*.key
+user_credentials.json
